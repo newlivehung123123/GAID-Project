@@ -1,0 +1,26 @@
+/*
+Theme Name: AI in Society Hub
+Theme URI: https://ainsocietyhub.com
+Author: Your Name
+Author URI: https://ainsocietyhub.com
+Description: A modern React-based WordPress theme for AI in Society blog. Features dynamic article management, job board integration, and book recommendations.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ai-in-society-hub
+*/
+
+/* 
+ * This theme uses React for the frontend.
+ * All styles are handled by the compiled CSS in /dist folder.
+ * This file is required for WordPress theme recognition.
+ */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
