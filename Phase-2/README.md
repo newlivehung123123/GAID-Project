@@ -12,7 +12,7 @@ The transition from Version 1 to Version 2 is managed by a four-stage Python pip
 3. **`fix_micronesia_country_names.py`**: A specialized geographic standardization script that resolves naming variations for Micronesia (ISO3: FSM) to ensure data consistency.
 4. **`heal_source_file_metadata.py`**: A metadata enrichment script that fills missing source URLs for specific datasets like UNESCO RAM and IEA to ensure 100% auditability.
 
-## 📊 Dataset Domains (Per Codebook Part 1–20)
+## 📊 Dataset Domains (Per Section 2 of Codebook, Part 1–20)
 The Version 2 dataset is categorized into the following 20 thematic domains as defined in the official codebook:
 
 * **Part 1: Diversity**
@@ -37,7 +37,7 @@ The Version 2 dataset is categorized into the following 20 thematic domains as d
 * **Part 20: Other(s)**
 
 ## 📂 Engineering Artifacts
-* **`GAID_MASTER_V2_COMPILATION_FINAL.csv`**: The finalized Version 2 master dataset.
+* **`GAID_MASTER_V2_COMPILATION_FINAL.csv`**: The finalized Version 2 master dataset. **This dataset can be downloaded on Harvard Dataverse as linked below.**
 * **`w1_v2_CODEBOOK_MASTER_AI_DATA.pdf`**: Authoritative documentation detailing the 24,453 unique metrics and the Wave 1, Version 2 build process.
 
 ---
