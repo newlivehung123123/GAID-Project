@@ -38,7 +38,7 @@ The Version 2 dataset is categorized into the following 20 thematic domains as d
 
 ## 📂 Engineering Artifacts
 * **`GAID_MASTER_V2_COMPILATION_FINAL.csv`**: The finalized Version 2 master dataset. **This dataset can be downloaded on Harvard Dataverse as linked below.**
-* **`w1_v2_CODEBOOK_MASTER_AI_DATA.pdf`**: Authoritative documentation detailing the 24,453 unique metrics and the Wave 1, Version 2 build process.
+* **`w1_v2_CODEBOOK_MASTER_AI_DATA.pdf`**: Authoritative documentation detailing the 259,546 unique metrics and the Wave 1, Version 2 build process.
 
 ---
 **Official Dataset Archive:** [Harvard Dataverse (v2)](https://doi.org/10.7910/DVN/PUMGYU)
