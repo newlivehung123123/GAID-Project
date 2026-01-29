@@ -25,7 +25,7 @@ The Version 1 dataset is categorized into the following eight thematic domains:
 The following files in this directory represent the core data engineering of this phase:
 * **`master_compiler_FINAL.py`**: The Python ingestion and cleaning engine used to process the raw datasets.
 * **`MASTER_AI_DATA_COMPILATION_FINAL.csv`**: The finalized Version 1 panel dataset. **This dataset can be downloaded on Harvard Dataverse as linked below.**
-* **`CODEBOOK_MASTER_AI_DATA.pdf`**: Official documentation detailing variable definitions, units, and source attribution.
+* **`CODEBOOK_MASTER_AI_DATA.pdf`**: Official documentation detailing variable definitions, units, and source attribution. Authoritative documentation detailing the 251,676 unique metrics and the Wave 1, Version 1 build process.
 
 ---
 **Official Dataset Archive:** [Harvard Dataverse (v1)](https://doi.org/10.7910/DVN/QYLYSA)
