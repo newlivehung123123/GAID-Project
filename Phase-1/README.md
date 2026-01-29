@@ -19,6 +19,7 @@ The Version 1 dataset is categorized into the following eight thematic domains:
 6. **Part 6: Public Opinion**
 7. **Part 7: Research and Development**
 8. **Part 8: Responsible AI**
+9. **Part 9: Other(s)**
 
 ## 📂 Engineering Artifacts
 The following files in this directory represent the core data engineering of this phase:
